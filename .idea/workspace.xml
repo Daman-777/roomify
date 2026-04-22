@@ -7,7 +7,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8391102f-ec2b-4c9f-85a3-48cfea1e0cb3" name="Changes" comment="" />
+    <list default="true" id="8391102f-ec2b-4c9f-85a3-48cfea1e0cb3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -74,7 +76,7 @@
       <workItem from="1776852209616" duration="1660000" />
       <workItem from="1776887325358" duration="444000" />
       <workItem from="1776887786061" duration="336000" />
-      <workItem from="1776888135444" duration="2388000" />
+      <workItem from="1776888135444" duration="2723000" />
     </task>
     <servers />
   </component>
